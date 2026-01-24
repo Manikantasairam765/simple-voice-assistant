@@ -1,5 +1,9 @@
 # Python Voice Assistant (GUI)
 
+
+![Python](https://img.shields.io/badge/python-v3-blue)
+![License](https://img.shields.io/badge/license-Apache%202.0-green)
+
 ## Description
 A simple desktop-based voice assistant developed using Python and Tkinter.  
 The application listens to voice commands and performs basic web-based actions such as YouTube playback, Google search, and time queries.
