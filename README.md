@@ -1,6 +1,5 @@
 # Python Voice Assistant (GUI)
 
-
 ![Python](https://img.shields.io/badge/python-v3-blue)
 ![License](https://img.shields.io/badge/license-Apache%202.0-green)
 
