@@ -39,10 +39,10 @@ Run the application using:
 
 Click **Start** and speak a valid command.
 
-## Sample Voice Commands
-- play despacito  
+## Sample Voice Commands 
 - search for machine learning  
-- what is the time  
+- what is the time
+- open python compiler
 - open google  
 - stop  
 
