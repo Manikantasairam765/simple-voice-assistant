@@ -25,6 +25,10 @@ Recognized speech is processed using keyword-based logic, and the corresponding 
 
 ## Installation
 Install the required Python libraries:
+pip install SpeechRecognition
+pip install pyttsx3
+pip install pyaudio
+
 
 
 ## How to Run
